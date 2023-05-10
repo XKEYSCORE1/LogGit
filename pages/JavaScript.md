@@ -2,7 +2,6 @@
 	- Javascript w/ new features added by ES6
 	- ES6 is vital to understand React
 - Creating variables with `var`, `const`, and `let`
-  collapsed:: true
 	- create a folder
 		- create `index.html`
 		  collapsed:: true
