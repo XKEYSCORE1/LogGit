@@ -2,7 +2,7 @@
 	- 2289 Adam Clayton Powell Junior Boulevard, Apt 2
 	  New York, NY 10030
 -
-- #### Total cost
+- #### Total Cost
 	- $368.60 USD
 	-
 - ### Hosted by Xiuzhen (Suzy)
@@ -14,8 +14,8 @@
 	      checkin will be self-checkin after 8:00 pm, guests need text messages to the host one day before arrives.
 	- 4. Check-out is helpful, regular checkout ( 11:00 am ) guests can request for late checkout, guests need contact the host before 11:00 
 	      am,
-		- FREE late checkout ( 11:00 am-6:00 pm )
-		- Pay $55 late checkout ( 6:00 pm- 1:00 am )
+		-
+		- FREE late checkout ( 11:00 am-6:00 pm ) | Pay $55 late checkout ( 6:00 pm- 1:00 am )
 		- If guests has reasonable want to late checkout after ( 6:00 pm ) guests need tells the host, that’ll be FREE as well.
 -
 -
