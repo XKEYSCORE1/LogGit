@@ -1,6 +1,8 @@
-- #### Address
-	- 2289 Adam Clayton Powell Junior Boulevard, Apt 2
-	  New York, NY 10030
+-
+- Airbnb
+	- #### Address
+		- 2289 Adam Clayton Powell Junior Boulevard, Apt 2
+		  New York, NY 10030
 -
 - #### Total Cost
 	- $368.60 USD
