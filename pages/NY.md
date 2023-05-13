@@ -2,3 +2,6 @@
 	- 2289 Adam Clayton Powell Junior Boulevard, Apt 2
 	  New York, NY 10030
 -
+- #### Total cost
+	- $368.60 USD
+-
