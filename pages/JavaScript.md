@@ -70,7 +70,6 @@
 				  // variable "name" stays in scope when defined with `let` method
 				  ```
 - Template Strings
-  collapsed:: true
 	- Better alternative to string concatenation
 	- ```  javascript
 	  let fname = 'Ryan';
@@ -85,7 +84,6 @@
 	  
 	  ```
 - Default parameters
-  collapsed:: true
 	- ```  javascript
 	  
 	  ~~
@@ -124,7 +122,6 @@
 	  -------------------------------------
 	  ```
 - Arrow functions
-  collapsed:: true
 	- Slightly different than regular functions
 	- `Regular function`
 		- ```  javascript
