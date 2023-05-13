@@ -16,3 +16,4 @@
   Pay $55 late checkout ( 6:00 pm- 1:00 am )
   If guests has reasonable want to late checkout after ( 6:00 pm ) guests need tells the host, that’ll be FREE as well.
 -
+-
