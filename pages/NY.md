@@ -8,9 +8,9 @@
 	- ## Total Cost
 		- $368.60 USD
 		-
-	- ### Hosted by Xiuzhen (Suzy)
+	- #### Hosted by Xiuzhen (Suzy)
 -
-	- ## Rules
+	- ### Rules
 		- 1. It’s suitable for 2 adults to stay over night.
 		- 2. No smoking indoors, if guests do, will be fine $100. For some guests who like smoking, our front outdoor steps is smoking free.
 		- 3. Check-in is available for 24 hours, regular checkin ( 1:00 pm -8:00 pm ) guests can request for early checkin before 1:00 pm, late 
